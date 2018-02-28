@@ -1,9 +1,9 @@
-# iWeather Ionic 3 Weather App
+# McWeather Angular 4 and Ionic 3 Weather and World time App
 
 This is an Ionic 3 application that uses the wunderground api to report weather and stores location info in Ionic storage
 
 ### Version
-1.0.0
+1.1.0
 
 ## Usage
 
